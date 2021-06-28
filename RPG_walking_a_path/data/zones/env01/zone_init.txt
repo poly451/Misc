@@ -1,0 +1,4 @@
+zone_name: swindon
+zone_description: starter_area
+monsters: nether 3 2; mordbog 4 4;
+player_starting_coords: 1; 1;
