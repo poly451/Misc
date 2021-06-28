@@ -1,0 +1,11 @@
+x: 4
+y: 2
+name: Mordbog
+kind: slime
+maximum_damage: 4
+max_hit_points: 6
+hit_points: 6
+chance_to_hit: 85
+experience: 0
+monster_image: Slime.png
+monster_image_dead: Slime_dead.png
